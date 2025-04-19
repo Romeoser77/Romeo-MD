@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="file:///C:/Users/hii/Downloads/Telegram%20Desktop/session%20script%20by%20malvin%20k/pair.html">
+  <a href="https://v0-simple-website-five-lilac.vercel.app/">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
