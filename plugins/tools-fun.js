@@ -198,7 +198,7 @@ async (conn, mek, m, { from, reply }) => {
         console.log('JSON response:', json);
 
         // Format the pickup line message
-        const pickupLine = `*Here's a pickup line for you:*\n\n"${json.pickupline}"\n\n> *Powered by your name 🎐*`;
+        const pickupLine = `*Here's a pickup line for you:*\n\n"${json.pickupline}"\n\n> *Powered by ᴢᴇɴᴏ-ᴍᴅ ᴠ1 🎐*`;
 
         // Send the pickup line to the chat
         await conn.sendMessage(from, { text: pickupLine }, { quoted: m });
