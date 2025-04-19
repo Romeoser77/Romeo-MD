@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Romeoser77/Romeo-MD/fork"><img title="LITE-MD" src="https://img.shields.io/badge/FORK-ZENO-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Romeoser77/Romeo-MD/fork"><img title="zeno-md" src="https://img.shields.io/badge/FORK-ZENO-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://pair-example-1-cgwk.onrender.com">
+  <a href="https://pair-example-2.onrender.com">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
