@@ -1,7 +1,7 @@
 {
-  "name": "your Botname",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
-  "logo": "your image url",
+  "name": "ᴢᴇɴᴏ-ᴍᴅ ᴠ1",
+  "description": "ᴢᴇɴᴏ-ᴍᴅ ᴠ1 ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ʀᴏᴍᴇᴏᴍᴏᴅꜱ ᴀɴᴅ ɢᴏʟᴅᴇɴ ᴅʀᴀɢᴏɴ",
+  "logo": "https://i.imgur.com/dWHq9jO.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,13 +14,13 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "https://i.imgur.com/CA4S4qX.jpeg",
       "required": true,
-      "value": "your image url"
+      "value": "https://i.imgur.com/CA4S4qX.jpeg"
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "ꜱʜᴏᴡ ʙᴏᴛ ɴᴜᴍʙᴇʀ ʟᴀꜱᴛ ꜱᴇᴇɴ ᴀꜱ ᴏɴʟɪɴᴇ",
       "required": true,
       "value": "HI DEAR IM ONLINE.!!♻️"
     },
@@ -34,13 +34,13 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
-      "description": "Make it true if you want bot auto voice.",
+      "description": "audio package name",
       "required": true,
-      "value": "true"
+      "value": "ᴢᴇɴᴏ-ᴍᴅ ᴠ1;https://i.imgur.com/dWHq9jO.jpeg"
     }, 
 
     "AUTO_REPLY": {
