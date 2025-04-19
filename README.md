@@ -103,7 +103,7 @@ jobs:
 - Creater and Owner Of ᴢᴇɴᴏ-ᴍᴅ
 
 > ᴢᴇɴᴏ-ᴍᴅ Helper
-- [Malvin King](https://github.com/Romeoser77/Romeo-MD)
+- [zeno-md](https://github.com/Romeoser77/Romeo-MD)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
