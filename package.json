@@ -1,17 +1,17 @@
 {
   "name": "pair",
   "version": "1.0.0",
-  "description": "simple pairing code example",
+  "description": "simple pairing code example-1",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name pair-example",
+    "start": "pm2 start index.js --name pair-example-1",
     "stop": "pm2 stop pair-example",
-    "restart": "pm2 restart pair-example",
+    "restart": "pm2 restart pair-example-1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Romeoser77/pair-example.git"
+    "url": "https://github.com/Romeoser77/pair-example-1.git"
   },
   "keywords": [],
   "author": "ᴢᴇɴᴏ-ᴍᴅ ",
