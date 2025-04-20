@@ -10,11 +10,11 @@
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=ZENO-MD+MD+WHATSAPP+BOT+MD" alt="">
    
-## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗦𝗘𝗧𝗨𝗣 ↕️
 
-**1. Fork This Repository**
+**1.ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀy**
 
-*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+*_ꜱᴛᴀʀᴛ ʙʏ ꜰᴏʀᴋɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴛᴏ ʏᴏᴜʀ ᴏᴡɴ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ. ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ꜰᴏʀᴋ:_*
 
   <a href="https://github.com/Romeoser77/Romeo-MD/fork"><img title="zeno-md" src="https://img.shields.io/badge/FORK-ZENO-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
@@ -52,7 +52,7 @@
 
 </details>
 
-<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<b><strong><summary align="center" style="color: Yello;">ᴅᴇᴘʟᴏʏ ᴏɴ ᴡᴏʀᴋꜰʟᴏᴡ</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
  
 <h8>ᴄᴏᴘʏ ᴛʜᴇ ᴡᴏʀᴋꜰʟᴏᴡ ᴄᴏᴅᴇꜱ ᴀɴᴅ ᴛʜᴇɴ ꜰʀᴏᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴇᴅɪᴛ ᴄᴏɴꜰɪɢ ᴀᴅᴅ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ᴛʜᴇɴ ꜱᴀᴠᴇ ᴀɴᴅ ɴᴏᴡ ᴄʟɪᴄᴋ ᴏɴ ʀᴇᴘᴏ ᴀᴄᴛɪᴏɴ ᴛᴀɢ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ꜱᴛᴀʀᴛ ɴᴇᴡ ᴡᴏʀᴋꜰʟᴏᴡ ᴛʜᴇɴ ᴘᴀꜱᴛᴇ ᴡᴏʀᴋꜰʟᴏᴡ ᴄᴏᴅᴇꜱ ʀᴇɴᴀᴍᴇ ᴍᴀɪɴ.ʏᴍʟ ᴛᴏ ᴅᴇᴘʟᴏʏ.ʏᴍʟ ᴀɴᴅ ꜱᴀᴠᴇ ᴛʜᴇ ꜰɪʟᴇ</h8>
@@ -96,13 +96,13 @@ jobs:
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-### ᴛʜᴀɴᴋ ʏᴏᴜ ᴅᴇᴀʀ
+### 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 𝗗𝗘𝗔𝗥❤️
 
-> DEVELOPER OF ᴢᴇɴᴏ-ᴍᴅ
+> ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴏꜰ ᴢᴇɴᴏ-ᴍᴅ
 - [Lord Zeno](https://github.com/Romeoser77/Romeo-MD)
 - ᴄʀᴇᴀᴛᴇʀ ᴀɴᴅ ᴏᴡɴᴇʀ ᴏꜰ ᴢᴇɴᴏ-ᴍᴅ
 
-> ᴢᴇɴᴏ-ᴍᴅ Helper
+> ᴢᴇɴᴏ-ᴍᴅ ʜᴇʟᴘᴇʀ
 - [zeno-md](https://github.com/Romeoser77/Romeo-MD)
 - ꜰᴏʀ ʜᴇʟᴘɪɴɢ ɪɴ ʙᴏᴛ ᴘʟᴜɢɪɴ ꜰɪʟᴇs.
 ---
