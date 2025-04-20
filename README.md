@@ -8,7 +8,7 @@
 <img src = "https://i.imgur.com/UkGp2XU.jpeg"  width="300" height="200">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=ZENO-MD+MD+WHATSAPP+BOT+MD" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=ZENO-MD+MD+WHATSAPP+BOT" alt="">
    
 ## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗦𝗘𝗧𝗨𝗣 ↕️
 
