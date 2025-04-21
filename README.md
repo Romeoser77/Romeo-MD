@@ -60,39 +60,7 @@
 <h6 align-"center">ᴀᴛᴛᴇɴᴛɪᴏɴ! ᴡᴇ ᴅᴏ ɴᴏᴛ ᴛᴀᴋᴇ ʀᴇꜱᴘᴏɴꜱɪʙɪʟɪᴛʏ ɪꜰ ʏᴏᴜʀ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ ɪꜱ ꜱᴜꜱᴘᴇɴᴅᴇᴅ ᴛʜʀᴏᴜɢʜ ᴛʜɪꜱ ᴅᴇᴘʟᴏʏ ᴍᴇᴛʜᴏᴅ, ɪ ᴀᴅᴠɪꜱᴇ ʏᴏᴜ ɴᴏᴛ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ᴡᴏʀᴋꜰʟᴏᴡ ᴅᴇᴘʟᴏʏ ᴍᴇᴛʜᴏᴅ ɪɴ ᴛʜᴇ ʟᴀᴛᴇꜱᴛ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛꜱ, ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛꜱ ᴄʀᴇᴀᴛᴇᴅ ᴀ ʏᴇᴀʀ ᴏʀ ᴍᴏʀᴇ ᴀɢᴏ ʜᴀᴠᴇ ɴᴏᴛ ʀᴇᴄᴇɪᴠᴇᴅ ᴛʜᴇ ʀɪꜱᴋ ᴏꜰ ꜱᴜꜱᴘᴇɴꜱɪᴏɴ ꜱᴏ ꜰᴀʀ, ᴛʜɪꜱ ᴡᴏʀᴋꜱ ɪᴛ ᴡɪʟʟ ᴏɴʟʏ ʙᴇ ᴅᴏɴᴇ ꜰᴏʀ 6 ʜᴏᴜʀꜱ, ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴜᴘᴅᴀᴛᴇ ᴛʜᴇ ᴄᴏᴅᴇ ᴛᴏ ʀᴇᴀᴄᴛɪᴠᴀᴛᴇ ɪᴛ.</h6>
 
 ```
-name: Node.js CI
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
