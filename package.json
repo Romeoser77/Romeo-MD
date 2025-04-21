@@ -1,17 +1,17 @@
 {
   "name": "pair",
   "version": "1.0.0",
-  "description": "simple pairing code example-1",
+  "description": "simple pairing code zeno-session",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name pair-example-1",
+    "start": "pm2 start index.js --name zeno-session",
     "stop": "pm2 stop pair-example",
-    "restart": "pm2 restart pair-example-1",
+    "restart": "pm2 restart zeno-session",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Romeoser77/pair-example-1.git"
+    "url": "https://github.com/Romeoser77/zeno-session"
   },
   "keywords": [],
   "author": "ᴢᴇɴᴏ-ᴍᴅ ",
